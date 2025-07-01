@@ -16,7 +16,7 @@ I explored how AI can learn to classify images, sounds, and body poses using sim
 - **What I learned**:  
   - AI doesn’t just memorize—it learns patterns to generalize new data.
 - **Screenshot**:  
-![Dog vs Cat Screenshot](./dog vs cat.png)
+![Dog vs Cat Screenshot](./cat vs dog.png)
 
 ---
 
