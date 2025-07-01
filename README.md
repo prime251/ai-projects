@@ -1,11 +1,11 @@
-# 🧠 Teachable Machine Practice Log
+#  Teachable Machine Practice Log
 
 This project shows three AI experiments I did using **Google Teachable Machine**.  
 I explored how AI can learn to classify images, sounds, and body poses using simple training examples.
 
 ---
 
-## 📸 1. Dog vs Cat Image Classifier
+##  1. Dog vs Cat Image Classifier
 
 - **Tool**: Teachable Machine (Image Project)  
 - **Training Data**:  
@@ -16,11 +16,11 @@ I explored how AI can learn to classify images, sounds, and body poses using sim
 - **What I learned**:  
   - AI doesn’t just memorize—it learns patterns to generalize new data.
 - **Screenshot**:  
-
+![Dog vs Cat Screenshot](./dog vs cat.png)
 
 ---
 
-## 🔊 2. Audio Classifier – Yes vs No / Mom vs Me
+##  2. Audio Classifier – Yes vs No / Mom vs Me
 
 - **Tool**: Teachable Machine (Audio Project)  
 - **Experiment 1**:  
@@ -34,7 +34,7 @@ I explored how AI can learn to classify images, sounds, and body poses using sim
 
 ---
 
-## ✋ 3. Pose Classifier – Left / Right / Both Hands Up
+##  3. Pose Classifier – Left / Right / Both Hands Up
 
 - **Tool**: Teachable Machine (Pose Project)  
 - **Classes**:
@@ -49,7 +49,7 @@ I explored how AI can learn to classify images, sounds, and body poses using sim
 
 ---
 
-## 💡 What I Found Interesting
+##  What I Found Interesting
 
 - The image model could recognize **new images** not used during training.  
 - The voice model was **harder to train** and needs more clarity and variety.  
@@ -58,7 +58,7 @@ I explored how AI can learn to classify images, sounds, and body poses using sim
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
 - Laptop webcam and built-in microphone
@@ -66,5 +66,5 @@ I explored how AI can learn to classify images, sounds, and body poses using sim
 
 ---
 
-## 📁 Folder Structure (Example)
+##  Folder Structure (Example)
 
